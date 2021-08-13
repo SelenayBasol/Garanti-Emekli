@@ -1,0 +1,18 @@
+.about ul li {
+  margin: 15px 0px 15px 0px;
+  color: #1973b8;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.about h5 {
+  padding-left: 12px;
+  font-weight: 700;
+}
+
+.about .date h5 {
+  font-weight: 700;
+  color: #1973b8;
+  margin-left: -15px;
+}
+/*# sourceMappingURL=About.css.map */

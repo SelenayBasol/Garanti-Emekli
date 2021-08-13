@@ -1,0 +1,14 @@
+.form textarea,
+.form input {
+  margin-bottom: 1.5rem;
+  background-color: #f8f9fa;
+  -webkit-box-shadow: none !important;
+  box-shadow: none !important;
+  border: none;
+  border-bottom: 1px solid #212529 !important;
+}
+
+.form img {
+  margin: 0 -13px;
+}
+/*# sourceMappingURL=Form.css.map */
